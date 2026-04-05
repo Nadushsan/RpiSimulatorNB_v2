@@ -1,0 +1,85 @@
+/* style.css — ARM Simulator Dark Theme */
+
+.root {
+    -fx-background-color: #0D1117;
+    -fx-font-family: "Courier New";
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-background: transparent;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar {
+    -fx-background-color: #161B22;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #30363D;
+    -fx-background-radius: 4;
+}
+
+.scroll-bar .track {
+    -fx-background-color: #161B22;
+}
+
+.text-area {
+    -fx-background-color: #0D1117;
+    -fx-text-fill: #8B949E;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+}
+
+.text-area .content {
+    -fx-background-color: #0D1117;
+}
+
+.combo-box {
+    -fx-background-color: #21262D;
+    -fx-text-fill: #E6EDF3;
+    -fx-border-color: #30363D;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-padding: 4 10 4 10;
+    -fx-font-family: "Courier New";
+    -fx-font-size: 12px;
+    -fx-cursor: hand;
+}
+
+.combo-box .arrow-button {
+    -fx-background-color: transparent;
+}
+
+.combo-box .arrow {
+    -fx-background-color: #8B949E;
+}
+
+.combo-box-popup .list-view {
+    -fx-background-color: #21262D;
+    -fx-border-color: #30363D;
+}
+
+.combo-box-popup .list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #E6EDF3;
+    -fx-font-family: "Courier New";
+    -fx-font-size: 12px;
+    -fx-padding: 6 12;
+}
+
+.combo-box-popup .list-cell:hover {
+    -fx-background-color: #30363D;
+}
+
+.separator .line {
+    -fx-border-color: #30363D;
+}
+
+.button:focused {
+    -fx-border-color: #58A6FF;
+}

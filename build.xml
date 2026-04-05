@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="RpiSimulator" default="default" basedir=".">
+    <description>ARM Cortex-A Register Simulator — Raspberry Pi</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
