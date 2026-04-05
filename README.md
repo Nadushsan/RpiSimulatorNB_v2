@@ -101,12 +101,3 @@ RpiSimulator/
 - NetBeans 17+
 
 ---
-
-## Ce que ce projet démontre (CV)
-
-- Compréhension de l'architecture ARM Cortex-A (Raspberry Pi)
-- Simulation du cycle Fetch-Decode-Execute
-- Gestion des registres et flags (CPSR)
-- Programmation orientée objet Java avancée
-- Interface graphique JavaFX avec animations
-- Connaissance des protocoles embarqués (STR/LDR, BL/BX)
